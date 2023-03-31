@@ -1,1 +1,3 @@
-header {background-color: #e08ec5;color: white;}
+header {background-color: #6779b3;color: white;}
+.cabeçalho-imagem{width: 20%;}
+.cabeçalho{background-color: #6779b3;color: azure;display: flex; justify-content:space-around;}
