@@ -1,3 +1,5 @@
 header {background-color: #6779b3;color: white;}
 .cabeçalho-imagem{width: 20%;}
 .cabeçalho{background-color: #6779b3;color: azure;display: flex; justify-content:space-around;}
+.escola-imagem{width:25%;}
+.escola {background-image: linear-gradient(#6779b3,#8c6694);color:black}
