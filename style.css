@@ -1,5 +1,10 @@
+*{margin: 0; padding: 0;}
 header {background-color: #6779b3;color: white;}
 .cabeçalho-imagem{width: 20%;}
-.cabeçalho{background-color: #6779b3;color: azure;display: flex; justify-content:space-around;}
+.cabecalho-lista-item{display:inline-block;margin:0 16px; font-size: 24;}
+.cabeçalho{background-color: #6779b3;color: azure;display: flex; justify-content:space-around;align-items:center; padding: 24px 0}
 .escola-imagem{width:25%;}
-.escola {background-image: linear-gradient(#6779b3,#8c6694);color:black}
+.escola {background-image: linear-gradient(#6779b3,#8c6694);color:black; display: flex;}
+.escola-conteudo{width:35%;display: flex;justify-content: center;align-items: center;padding: 24px 0;}
+.escola-titulo{padding: 24px 0;}
+
