@@ -3,11 +3,15 @@ header {background-color: #6779b3;color: white;}
 .cabecalho-imagem{width: 20%;}
 .cabecalho-lista-item{display:inline-block;margin:0 16px; font-size: 24;}
 .cabecalho{background-color: #6779b3;color: azure;display: flex; justify-content:space-around;align-items:center; padding: 24px 0}
+
 .escola-imagem{width:25%;}
 .escola {background-image: linear-gradient(#6779b3,#8c6694);color:black; display: flex;}
-.escola-conteudo{width:35%;display: flex;justify-content: center;align-items: center;padding: 24px 0;}
+.escola-div-conteudo{width:35%;display: flex;justify-content: center;align-items: center;padding: 24px 0;}
 .escola-titulo{padding: 24px 0;}
 body{font-family: 'poppins',sans-serif; }
+
 .estudante-imagem{width: 120px;}
 .estudante-icone{width: 24px;}
-.estudante-div{text-align: center;}
+.estudante-div{text-align:center;}
+.estudante-titulo{text-align: center; padding: 50px 0;}
+.estudante-todos{display: grid; grid-template-columns: 20% 20% 20% 20%;}
